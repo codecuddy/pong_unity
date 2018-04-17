@@ -1,0 +1,2 @@
+/Users/charliecuddy/Desktop/Programming/Unity/pong/pong/Temp/UnityVS_obj/Debug/Unity.PackageManagerUI.Editor.csprojResolveAssemblyReference.cache
+/Users/charliecuddy/Desktop/Programming/Unity/pong/pong/Temp/UnityVS_obj/Debug/Unity.PackageManagerUI.Editor.csproj.CoreCompileInputs.cache

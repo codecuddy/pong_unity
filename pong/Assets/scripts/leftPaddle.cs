@@ -23,7 +23,7 @@ public class leftPaddle : MonoBehaviour {
             //Time.deltaTime is computer time in seconds so if there is lag it stay consistent
             transform.Translate(Vector2.left * speed * Time.deltaTime);
         }
-        if (Input.GetKey("d") && transform.position.x < -1) {
+        if (Input.GetKey("d") && transform.position.x < -0.5) {
             //Time.deltaTime is computer time in seconds so if there is lag it stay consistent
             transform.Translate(Vector2.right * speed * Time.deltaTime);
         }
